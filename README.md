@@ -24,3 +24,24 @@ SIMPLY RUN MAIN.PY FILE AND CLICK ON THE http://127.0.0.1:5000/ IN ADDRESS BAR.
 
 THAT'S IT ENTER YOUR FAVOURITE MOVIE AND GET TO KNOW ABOUT IT AND ITS SIMILAR MOVIES.
 
+
+
+SOURCES OF DATA SETS
+
+
+1)IMDB 5000 Movie Dataset-->https://www.kaggle.com/datasets/carolzhangdc/imdb-5000-movie-dataset
+
+
+
+2)The Movies Dataset-->https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
+
+
+
+3)List of movies in 2018-->https://en.wikipedia.org/wiki/List_of_American_films_of_2018
+
+
+4)List of movies in 2019-->https://en.wikipedia.org/wiki/List_of_American_films_of_2019
+
+
+
+5)List of movies in 2020-->https://en.wikipedia.org/wiki/List_of_American_films_of_2020
